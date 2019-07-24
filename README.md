@@ -1,0 +1,1 @@
+This is a small program to read a .csv file and pick couple of fields from it and create an impex file that can be consumed by hybris.
